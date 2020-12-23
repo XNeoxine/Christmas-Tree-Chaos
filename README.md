@@ -1,4 +1,4 @@
-# SA2-Christmas-Tree-Chaos
+# Christmas Tree Chaos
 
 A mod for Sonic Adventure 2.
 
